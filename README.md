@@ -4,7 +4,7 @@ Overview: Image Stitching for Bridge Surface Reconstruction
 
 A Python-based research project exploring multi-image stitching and mosaic reconstruction for bridge inspection imagery. The repository implements feature-based image registration, homography estimation, and experimental geometry-aware stitching approaches using planar projection and triangular meshes.
 
-- Geometry-based experiments: Point-cloud plane fitting and camera-projection-based stitching onto a reference plane.
+Geometry-based experiments: Point-cloud plane fitting and camera-projection-based stitching onto a reference plane.
 
 Tech Stack
 Python · OpenCV · NumPy · SciPy · Matplotlib · Open3D · PyTorch / Segment Anything (for optional contour extraction)
